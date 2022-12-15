@@ -2455,7 +2455,7 @@ figure.img-shadow:before {
   color: #333333;
   float: right;
 }
-.cause-wrapper:hover .cause-img:before {
+.cause-img2:hover .cause-img:before {
   width: 100%;
   background: rgba(0, 0, 0, 0.5);
 }
